@@ -1,0 +1,21 @@
+{
+    "typeName": "HellowWorld",
+    "pluginId": "97f76362-bbb0-4a86-9904-e994a3b64472",
+    "Type": "Simple",
+    "category": "Sample",
+    "description": "Prints Hello World to console",
+    "info": {
+        "version": "1.0.0",
+        "updated": "Feb 11, 2022",
+        "size": "1,000 bytes",
+        "developer": "Ben Sperl, LMS"
+    },
+    "scripts":"",
+    "customIcon": "TemplatePlaceholder.jpg",
+    "origin": "custom",
+    "placeholder": "TemplatePlaceholder.jpg",
+    "preview": "TemplateImage.jpg",
+    "fieldsDescription": "Hello World Plugin",
+    "isNotAllowToAddFields": true,
+    "schema": ""
+}
